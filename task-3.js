@@ -7,7 +7,6 @@ function make_avg(arr) {
   }
 
   let arrSize = arr.length;
-
   let arraySum = array / arrSize;
   return arraySum;
 }

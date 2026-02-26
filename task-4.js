@@ -5,5 +5,5 @@ function count_zero(zeros) {
   return zero;
 }
 
-const digits = count_zero("10101100");
+const digits = count_zero("11110");
 console.log("The total zeros are -", digits);
